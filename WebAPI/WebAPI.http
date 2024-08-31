@@ -1,0 +1,11 @@
+### Get Weather Forecast
+GET http://localhost:5165/weatherforecast/
+Accept: application/json
+
+### Get Books
+GET http://localhost:5165/books
+Accept: application/json
+
+### Get Songs
+GET http://localhost:5165/songs
+Accept: application/json
